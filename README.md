@@ -38,7 +38,7 @@ I love learning new things, making discoveries, and sharing them with people. Th
 There's so much fascinating and captivating about this world; you just have to go out and find it. 
 
 > In fact, the deeper structure of nature is not modeled out of an examination of data obtained by measurement… The deeper description of nature is achieved by taking weird objects from the frontiers of mathematics — these things dreamed up in the confines and depths of the human mind and inside computers and then laying them over nature and seeing the 1:1 correspondence between, let us say, the multidimensional catastrophes described by René Thom and the dripping of a faucet, the turbulence in a brook, the voting patterns in a ghetto — all of these things are seen to be easily modeled by extremely exotic mathematical objects discovered by intuition in the mind. 
-#### \- Terence McKenna
+**\- Terence McKenna**
 
 If you're feeling generous, donate fuel to a tired college student:
 
