@@ -7,7 +7,7 @@
 ### About Me
 - 😄 Pronouns: He/Him
 - 📫 Best way to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:averyj.business@gmail.com) or send me a message on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-avery/)
-- 💬 Ask me about the most recent theorem I've read about or send me a weird dataset
+- 💬 Ask me about the most recent theorem I've read about or send me a weird dataset to explore
 
 Here's a list of the technology I'm most familiar with:
 
