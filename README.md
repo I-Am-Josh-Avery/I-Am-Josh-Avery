@@ -1,7 +1,7 @@
 ## Hey, I'm Josh -- Welcome to my GitHub Page!
 
 ### Quick overview of what's happening in my world:
-- 🔭 I'm practicing problem solving with data structures on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joshavery57) to prepare for interviews
+- 🔭 I'm practicing problem-solving with data structures on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joshavery57) to prepare for interviews
 - 🌱 I'm learning Python, Git, and intermediate-advanced statistics
 
 ### About Me
