@@ -5,8 +5,8 @@
 - 🌱 Creating a computer cluster using Raspberry Pis to get practice with parallel programming and distributed computing
 
 ### About Me
-- 💻 I currently work as a data analyst at Mensor, LP. The 'typical day' doesn't exist: I do everything from building internal tools (usually in visual C#) to cleaning data to applied machine learning. The variety keeps things interesting! 😄
-- 🥾 When I'm not working, I like hiking, reading, and creating, whether that mean painting, tinkering with hardware, or playing my bass guitar. 
+- 💻 I currently work as a data analyst at Mensor, LP. I've had a breadth of work in this position: I've built internal tools, cleaned lots of data, created descriptive dashboards, made machine learning models, and even worked on some optimization and queuing problems. The variety keeps things interesting! 😄
+- 🥾 When I'm not working, I like hiking, reading, and creating, whether that means painting, tinkering with hardware, or playing my bass guitar. 
 - 📫 Best way to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:averyj.business@gmail.com) or send me a message on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-avery/)
 
 Here's a list of the technology I'm most familiar with:
@@ -16,7 +16,7 @@ Here's a list of the technology I'm most familiar with:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-If you're feeling generous, fuel my caffine addiction:
+If you're feeling generous, fuel my caffeine addiction:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/IAmJoshAvery)
 
