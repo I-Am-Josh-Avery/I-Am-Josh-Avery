@@ -1,11 +1,11 @@
 ## Hey, I'm Josh -- Welcome to my GitHub Page!
 
 ### Quick overview of what's happening in my world:
-- 🔭 Searching for Associate Statistician positions or positions that deal with optimization problems (LP, ILP, MOLP, etc..)
 - 🌱 Creating a computer cluster using Raspberry Pis to get practice with parallel programming and distributed computing
+- 🔭 Looking to uncover insights and strengthen reporting in a Data Analyst position 
 
 ### About Me
-- 💻 I currently work as a data analyst at Mensor, LP. I've had a breadth of work in this position: I've built internal tools, cleaned lots of data, created descriptive dashboards, made machine learning models, and even worked on some optimization and queuing problems. The variety keeps things interesting! 😄
+- 💻 I currently work as an operations analyst at Mensor, LP. I've had a breadth of work in this position: I've built internal tools, cleaned lots of data, created descriptive dashboards, made machine learning models, and even worked on some optimization and queuing problems. The variety keeps things interesting! 😄
 - 🥾 When I'm not working, I like hiking, reading, and creating, whether that means painting, tinkering with hardware, or playing my bass guitar. 
 - 📫 Best way to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:averyj.business@gmail.com) or send me a message on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-avery/)
 
